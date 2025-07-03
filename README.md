@@ -2,6 +2,10 @@
 
 Este projeto é um modelo de **Landing Page** desenvolvido durante as aulas do curso de JavaScript e TypeScript da Udemy, ministrado pelo professor **Luiz Otávio Miranda**.
 
+## Veja o projeto em ação
+
+Acesse: [https://lading-page-curso-udemy.netlify.app/](https://lading-page-curso-udemy.netlify.app/)
+
 ## Sobre
 
 A Landing Page foi criada com foco em HTML e CSS, seguindo as melhores práticas ensinadas no curso. O objetivo é servir como base para estudos e futuras customizações.
@@ -19,4 +23,4 @@ Instrutor: Luiz Otávio Miranda
 
 ---
 
-Feito com ❤️ por
+Feito com ❤️ por Ykaro
